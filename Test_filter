@@ -2,7 +2,7 @@
 ! Version: 2.2.222
 ! Updated: 2025-02-15T07:33:19+00:00
 ! Description: Test filter
-! Homepage: https://github.com/Swen90/AdGuard/refs/heads/main/Test_filter
+! Homepage: https://github.com/Swen90/AdGuard/blob/main/Test_filter
 
 ||vk.com
 ||example.org^
