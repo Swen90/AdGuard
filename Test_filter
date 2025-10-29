@@ -1,0 +1,41 @@
+! Title: Test filter new15
+! Version: 2.2.222
+! Updated: 2025-02-15T07:33:19+00:00
+! Description: Test filter
+! Homepage: https://github.com/Swen90/Aston_AQA/blob/master/TestFilter.txt
+
+||vk.com
+||example.org^
+||avito.ru^
+||twitch.tv^
+0.0.0.0 mail.ru
+TEST111
+TEST222
+TEST333
+TEST444
+TEST555
+TEST666
+lenta.ru##body
+@@||medusa.io^
+forbes.com#%#console.log('AG User Filter: hueta');
+TEST777
+TEST888
+TEST999
+TEST1111
+TEST2222
+TEST3333
+TEST4444
+TEST5555
+TEST6666
+TEST7777
+TEST8888
+TEST9999
+TEST1
+TEST2
+||food.com^
+0.0.0.0 forbes.com
+NU
+NU
+NU
+NU
+NU
