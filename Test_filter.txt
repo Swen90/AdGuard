@@ -4,6 +4,7 @@
 ! Description: Test filter
 ! Homepage: https://github.com/Swen90/AdGuard/blob/main/Test_filter.txt
 
+||plshelp.me
 ||dksdj.sdss
 ||anele.ss
 ||vk.com
